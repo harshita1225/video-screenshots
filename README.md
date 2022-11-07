@@ -2,10 +2,6 @@
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design then setinterval to take screenshots while video is playing.
 
-## Link
-
-- Live Site URL: [https://harshita1225.github.io/video-screenshots/](https://harshita1225.github.io/video-screenshots/)
-
 ## Project Specifications
 
 - Display custom video player styled with CSS
