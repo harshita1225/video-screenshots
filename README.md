@@ -4,7 +4,7 @@ Custom video player using the HTML5 video element and it's JavaScript API with a
 
 ## Link
 
-- Live Site URL: []()
+- Live Site URL: [https://harshita1225.github.io/video-screenshots/](https://harshita1225.github.io/video-screenshots/)
 
 ## Project Specifications
 
